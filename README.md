@@ -15,3 +15,7 @@ _Descripción:_ aquí conocemos las técnicas, elementos y artefactos que compon
 ### Principios de composición y diseño
 _Maestro:_ Roberto Melo
 _Descripción:_ conocemos los principios, técnicas y campos de aplicación del diseño gráfico mediante las herramientas adecuadas para diseñar interfaces gráficas efectivas.
+
+## Desarrollo de aplicaciones interactivas
+_Maestro:_ Sebastian Mejía
+_Descripción:_ conocer la metodología de como se crean las aplicaciones mediante el uso de diferentes programas y bases de datos que nos ayudaran en su desarrollo.
