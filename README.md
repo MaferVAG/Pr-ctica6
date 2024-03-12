@@ -3,3 +3,7 @@
 ### Lenguajes Interpretados 
 _Maestro:_ Jonathan Mircha  
 _Descripción:_ en la materia se ve el desarrollo de proyectos web con el uso de herramientas como GitHub, Git, Markdown, HTML y CSS.
+
+### Sistemas Operativos
+_Maestro:_ Alcides Albora
+_Descripción:_ dentro de la materia conocemos los conceptos de la programación por computadora y buscar las mejores soluciones para el diseño de programas.
