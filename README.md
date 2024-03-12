@@ -11,3 +11,7 @@ _Descripción:_ dentro de la materia conocemos los conceptos de la programación
 ### Diseño de videojuegos
 _Maestro:_ Héctor Guerrero
 _Descripción:_ aquí conocemos las técnicas, elementos y artefactos que componen a un videojuego para sean correctamente diseñados. 
+
+### Principios de composición y diseño
+_Maestro:_ Roberto Melo
+_Descripción:_ conocemos los principios, técnicas y campos de aplicación del diseño gráfico mediante las herramientas adecuadas para diseñar interfaces gráficas efectivas.
