@@ -21,3 +21,5 @@ _Maestro:_ Sebastian Mejía
 _Descripción:_ conocer la metodología de como se crean las aplicaciones mediante el uso de diferentes programas y bases de datos que nos ayudaran en su desarrollo.
 
 #### Creando la versión 1.0.0 de este repositorio
+
+#### Creando la versión 1.1.0 de este repositorio
