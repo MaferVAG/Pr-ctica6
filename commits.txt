@@ -1,0 +1,41 @@
+commit ea2510590fe12dd97105483edf70797ccfe602dc
+Author: Mafer Vásquez <fvag0702@gmail.com>
+Date:   Tue Mar 12 11:12:39 2024 -0600
+
+    Corrección interfaz
+
+commit 0be61376198e7db20770d7f709ab3e1eaf52512f
+Author: Mafer Vásquez <fvag0702@gmail.com>
+Date:   Tue Mar 12 11:06:29 2024 -0600
+
+    Agregando materia desarrollo de aplicaciones interactivas
+
+commit ebfaeec92078eeb590b9fb0d7424106cbb94557f
+Author: Mafer Vásquez <fvag0702@gmail.com>
+Date:   Tue Mar 12 11:01:48 2024 -0600
+
+    Agregando materia principios de composición y diseño
+
+commit 002d1d53e3afd1f9f9e7d4b7c312707048bf41c9
+Author: Mafer Vásquez <fvag0702@gmail.com>
+Date:   Tue Mar 12 10:56:24 2024 -0600
+
+    Agregando materia diseño de videojuegos
+
+commit 76d7ad5a21be8542e1d1c0f9ff26a3ea7ecb0d53
+Author: Mafer Vásquez <fvag0702@gmail.com>
+Date:   Tue Mar 12 10:51:08 2024 -0600
+
+    Agregando materia de sistemas operativos
+
+commit f21c34c44776ab75653676e204d12f2d0b30822a
+Author: Mafer Vásquez <fvag0702@gmail.com>
+Date:   Tue Mar 12 10:43:38 2024 -0600
+
+    Agregando materia de lenguajes interpretados
+
+commit f6a2e98940bce74d4b93fe0818efe902fade28d2
+Author: Mafer Vásquez <fvag0702@gmail.com>
+Date:   Tue Mar 12 10:36:14 2024 -0600
+
+    Primer commit
