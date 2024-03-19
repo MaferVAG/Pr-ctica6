@@ -23,3 +23,5 @@ _Descripción:_ conocer la metodología de como se crean las aplicaciones median
 #### Creando la versión 1.0.0 de este repositorio
 
 #### Creando la versión 1.1.0 de este repositorio
+
+## [Práctica 8](./practica-8.md)
